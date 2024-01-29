@@ -46,10 +46,4 @@ Copy code
 npm start
 Open your browser and visit http://localhost:3000 to access Luxe Lane.
 
-Usage
-Browse the catalog to discover a curated selection of luxury products.
-Create an account to enjoy personalized recommendations and a seamless shopping experience.
-Add products to your cart and proceed to checkout for a secure and efficient payment process.
-Explore the wishlist feature to save and track your favorite items.
-Stay updated on the latest trends and new arrivals through our newsletter.
-Technologies
+
