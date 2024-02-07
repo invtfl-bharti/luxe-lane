@@ -26,22 +26,3 @@ To run Luxe Lane locally, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/luxe-lane.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd luxe-lane
-Install dependencies:
-
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm start
-Open your browser and visit http://localhost:3000 to access Luxe Lane.
