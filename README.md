@@ -25,4 +25,4 @@ Installation
 To run Luxe Lane locally, follow these steps:
 
 Clone the repository:
-
+```bash 
