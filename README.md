@@ -23,6 +23,9 @@ Order Tracking: Stay informed about the status of your orders with real-time tra
 
 Installation
 To run Luxe Lane locally, follow these steps:
+```
+https://invtfl-bharti.github.io/Luxe-Lane-private/
+```
 
 Clone the repository:
 ```bash 
