@@ -3,7 +3,8 @@ Welcome to **LuxeLane**, an elegant and user-friendly e-commerce website designe
 ## Live Preview
 
 Check out the live preview of LuxeLane: 
-[LuxeLane Live Preview]
+[LuxeLane Live Preview]-
+
      ```
         https://invtfl-bharti.github.io/luxe-lane/
      ```
